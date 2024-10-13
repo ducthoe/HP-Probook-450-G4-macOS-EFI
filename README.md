@@ -36,3 +36,5 @@ Don't update to macOS Sequoia, since AirportItlwm has not updated yet, and the w
 
 
 Download the EFI in the releases page if you want to test it out. Though I recommend the [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/) to make your own EFI, as this is just for archival purposes.
+
+ <sup><sub> hp probook 450 g4 hackintosh, i3-7100U hp probook 450 g4 hackintosh, hp probook 450 g4 efi, hp probook 450 g4 macOS, hp probook 450 - g4, sonoma, hp sonoma, opencore install guide, EFI, hackintosh, hp probook hackintosh, 450 g4 efi, hackintosh </sup></sup>
